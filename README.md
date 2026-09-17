@@ -135,29 +135,6 @@ The documents include module-level test cases for:
 
 Final test statuses should match the actual observed results in the completed Salesforce org.
 
-## Demo Video
-
-Recommended demonstration sequence:
-1. Open the HandsMen Threads Lightning application.
-2. Show the core objects and sample records.
-3. Demonstrate data-quality/validation behavior.
-4. Demonstrate order-confirmation automation.
-5. Demonstrate loyalty automation.
-6. Demonstrate the below-five stock alert.
-7. Show Apex/trigger implementation.
-8. Show batch/scheduled processing.
-9. Summarize the major project outcomes.
-
-**Demo Video:** _______________________________
-
-## Skills Wallet Submission
-
-**GitHub Repository:** _______________________________
-
-**Skills Wallet Project:** _____________________________
-
-**Demo Video:** _____________________________________
-
 ## Repository Structure
 
 ```text
